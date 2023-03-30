@@ -71,3 +71,4 @@ Rectangle {
         fileDialog.open()
     }
 }
+
